@@ -3,6 +3,7 @@
 |----------|----------|
 |morse.ino|morse电码转化|
 |morse2.0.ino|morse电码转化实现|
+|morse2.0原理图|morse电码转化电路图|
 |car.ino|小车程序|
 |Car原理图|小车电路图|
 |LED.ino|七段数码管显示程序|
